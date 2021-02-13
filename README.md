@@ -1,7 +1,7 @@
 # GitHubproject by Ketaki
 ## Summary
 This project helps the user to build an interactive webpage with graphs to highlight the dataset values. This is done using Plotly library of Javascript.
-## Deliverable 1,2 and 3
+## Deliverables 1,2 and 3
 - Graphs added as per requirements.
 ## Deliverable 4
 The following additiona are made -
