@@ -1,0 +1,14 @@
+body {
+
+    color: black;
+    font-family:'Kanit', sans-serif;
+    background-color:gainsboro;
+  }
+
+  .jumbotron {
+    background-image: url("../images/Bio.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+    color: blanchedalmond;
+    font-family: 'Open Sans';
+  }
